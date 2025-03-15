@@ -16,3 +16,7 @@ The `sfdx-project.json` file contains useful configuration information for your 
 - [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
 - [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
 - [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+
+# trailhead-flows-collection
+Coleção de flows do Salesforce desenvolvidos durante meus estudos no Trailhead e cursos da Udemy. Serve como portfólio de aprendizado e biblioteca pessoal de referência para implementações de automação com Flow Builder, mantido como parte do meu "segundo cérebro" para consulta futura.
+
